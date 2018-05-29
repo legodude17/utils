@@ -1,6 +1,6 @@
 {
   "name": "utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Some utilities I have found I use",
   "main": "index.js",
   "repository": {
