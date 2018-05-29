@@ -1,13 +1,15 @@
 {
   "name": "utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some utilities I have found I use",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/legodude17/utils"
   },
-  "files": ["*.js"],
+  "files": [
+    "*.js"
+  ],
   "keywords": [],
   "author": "legodude17",
   "license": "MIT",
